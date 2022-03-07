@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "css-loader": "^6.5.1",
+    "languages-js": "^2.3.3",
+    "ts-node": "^10.4.0"
+  }
+}

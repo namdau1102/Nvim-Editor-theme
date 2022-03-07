@@ -1,0 +1,32 @@
+Updated. Elapsed time: 4.080923 sec.
+[========================xx]
+
+- Finishing ... Done!
+x Post-update hook for defx.nvim ... Vim:E492: Not an editor command: updateremoteplugins
+x Post-update hook for nvim-treesitter ... Exit status: 127
+- cmp-buffer:  2 files changed, 70 insertions(+), 11 deletions(-)
+- lspsaga.nvim: Already up to date.
+- lualine.nvim:  create mode 100644 lua/tests/spec/lualine_spec.lua
+- telescope.nvim:  create mode 100644 lua/telescope/builtin/diagnostics.lua
+- nvim-treesitter:  create mode 100644 tests/query/highlights_spec.lua
+- coc.nvim: Already up to date.
+- lspkind-nvim:  2 files changed, 15 insertions(+), 1 deletion(-)
+- nvim-cmp:  create mode 100644 doc/cmp.txt
+- nvim-web-devicons:  2 files changed, 554 insertions(+), 295 deletions(-)
+- vim-less: Already up to date.
+- completion-nvim: Already up to date.
+- vim-css-color: Already up to date.
+- plenary.nvim:  8 files changed, 283 insertions(+), 56 deletions(-)
+- vim-javascript: Already up to date.
+- popup.nvim: Already up to date.
+- lsp-colors.nvim: Already up to date.
+- vim-fugitive: Already up to date.
+- nvim-lspconfig: Already up to date.
+- defx.nvim:  6 files changed, 23 insertions(+), 6 deletions(-)
+- vim-lsp:  8 files changed, 295 insertions(+), 25 deletions(-)
+- nvim-autopairs:  create mode 100644 doc/nvim-autopairs-rules.txt
+- defx-icons: Already up to date.
+- vim-coffee-script: Already up to date.
+- vim-rhubarb: Already up to date.
+- cmp-nvim-lsp: Already up to date.
+- defx-git: Already up to date.
